@@ -5,7 +5,7 @@ import uuid
 
 # --- Configuration ---
 # BACKEND_URL = "http://localhost:3000/calculate"
-BACKEND_URL = "https://multi-agent-price-calculator-backend.onrender.com"
+BACKEND_URL = "https://multi-agent-price-calculator-backend.onrender.com/calculate"
 # --- Page Setup ---
 st.set_page_config(
     page_title="Multi-Agent Price Calculator",
